@@ -1,0 +1,4 @@
+venv/
+.vscode/
+Images/price_save.png
+.env
